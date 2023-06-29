@@ -1,0 +1,2 @@
+tabs: ['contracts/GlobalVar.sol']
+terminals: ['yarn install']
